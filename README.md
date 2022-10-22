@@ -1,2 +1,2 @@
-# kbd2600
+# THE KBD2600
 An Atari inspired mechanical keyboard
